@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "core-js": "^3.39.0",
+    "pdfjs-dist": "^2.16.105"
+  }
+}
